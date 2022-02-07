@@ -3,9 +3,10 @@ The rainbow
 Red 
 Yellow
 Pink
+indigo
 Blue
 Green
 Black
 Purple
 Multi
-Main new
+
